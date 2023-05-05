@@ -29,7 +29,7 @@ def main(**context):
     dbname = context["params"]["dbname"]
 
     # get the current month in local time
-    datem = datetime.datetime.today().strftime("%Y-%m-%d")
+    datem = datetime.today().strftime("%Y-%m-%d")
     year_month_day = str(datem)
     logging.info(year_month_day)
 
