@@ -54,7 +54,7 @@ dag = DAG(
 
 sheets = [
     {
-        "url": "https://docs.google.com/spreadsheets/d/12oQYdqc1RPU6PZ0TBK1yyFdocYFNLbes/edit?usp=share_link&ouid=114463140943808436104&rtpof=true&sd=true",
+        "url": "https://drive.google.com/file/d/1IOooIPKZ9JSRTOInGmJgMcTJmJEhg29u/view?usp=share_link",
         "tab": "Test",
         "schema": "star1996416",
         "table": "spreadsheet_copy_testing"
